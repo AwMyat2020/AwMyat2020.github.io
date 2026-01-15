@@ -1,0 +1,33 @@
+---
+title: "Data Visualization"
+format: html
+---
+
+## Learning with Technology
+
+![Data visualization example Line Chart ](images/line_chart_01.png){width=80%}
+![Data visualization example Bar Chart ](images/bar_chart.png){width=80%}
+
+Data visualization allows complex numerical data to be presented in a clear and meaningful way. Through charts and graphs, patterns and trends become easier to understand compared to raw tables of numbers.
+
+---
+
+## Short Video on Data Visualization
+
+{{< video https://www.youtube.com/watch?v=5Zg-C8AAIGg width="600" height="400" >}}
+
+This video explains how data visualization helps in decision-making and communication. It shows how visuals can turn data into useful insights.
+
+---
+
+## About Singapore Institute of Technology
+
+::: {style="float:left; position: relative; top: 0px"}
+
+![](images/lab_sit_logo.png){height="100px" style="margin-right: 10px; align: left"}
+
+:::
+
+
+The Singapore Institute of Technology (SIT) focuses on applied learning and industry collaboration. Students are exposed to real-world projects and practical skills that prepare them for professional careers. This learning approach helps students bridge academic knowledge with workplace applications.
+

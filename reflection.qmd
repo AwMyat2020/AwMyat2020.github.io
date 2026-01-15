@@ -1,0 +1,30 @@
+---
+title: "Reflection on the use of GenAI"
+format: html
+---
+
+
+## GenAI I used
+I used ChatGPT to help me polish writing, fix formatting in Quarto, and troubleshoot GitHub Pages deployment.
+
+## How it helped 
+- Helping me mostly in organising and improving my content into a clean web page structure (headings, lists, links)
+- Fixing YAML indentation issues and navbar setup
+- Assisting me when my images were not showing properly 
+
+## What’s beneficial
+- Faster drafting and reformatting
+- Helpful for debugging 
+- Gives examples that I can adapt
+
+## What’s challenging
+- Sometimes I still need to verify steps in my own setup (RStudio/Git settings differ)
+- I still need to decide what is truthful and relevant
+
+## How I might use GenAI in future
+For writing first drafts, cleaning documentation, brainstorming, and debugging.
+I believe GenAI will be useful in both my studies and future work, especially in areas such as documentation, data analysis explanations, and technical problem solving.
+
+
+## Final thoughts
+Overall, GenAI supported my learning process instead of replacing it. It helped me work more efficiently, understand technical concepts better, and reflect more deeply on my own work.

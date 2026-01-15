@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m a FinTech undergraduate at SIT. I like working with data, building dashboards, and exploring how technology affects people and work.\n\n\n\nData analytics & visualization\nAutomation and process improvement\nFinTech systems and product thinking\n\n\n“I enjoy learning from mistakes, trying again, and slowly getting better at what I do.”"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,152 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#hi-im-au-auau",
+    "href": "index.html#hi-im-au-auau",
+    "title": "Home",
+    "section": "",
+    "text": "I’m a FinTech undergraduate at SIT. I like working with data, building dashboards, and exploring how technology affects people and work.\n\n\n\nData analytics & visualization\nAutomation and process improvement\nFinTech systems and product thinking\n\n\n“I enjoy learning from mistakes, trying again, and slowly getting better at what I do.”"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I used ChatGPT to help me polish writing, fix formatting in Quarto, and troubleshoot GitHub Pages deployment."
+  },
+  {
+    "objectID": "reflection.html#tools-i-used",
+    "href": "reflection.html#tools-i-used",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I used ChatGPT to help me polish writing, fix formatting in Quarto, and troubleshoot GitHub Pages deployment."
+  },
+  {
+    "objectID": "reflection.html#how-it-helped-with-examples",
+    "href": "reflection.html#how-it-helped-with-examples",
+    "title": "Reflection on the use of GenAI",
+    "section": "How it helped (with examples)",
+    "text": "How it helped (with examples)\n\nTurning my existing notes into a clean web page structure (headings, lists, links)\nFixing YAML indentation issues and navbar setup"
+  },
+  {
+    "objectID": "reflection.html#whats-beneficial",
+    "href": "reflection.html#whats-beneficial",
+    "title": "Reflection on the use of GenAI",
+    "section": "What’s beneficial",
+    "text": "What’s beneficial\n\nFaster drafting and reformatting\nHelpful for debugging\nGives examples that I can adapt"
+  },
+  {
+    "objectID": "reflection.html#whats-challenging",
+    "href": "reflection.html#whats-challenging",
+    "title": "Reflection on the use of GenAI",
+    "section": "What’s challenging",
+    "text": "What’s challenging\n\nSometimes I still need to verify steps in my own setup (RStudio/Git settings differ)\nI still need to decide what is truthful and relevant"
+  },
+  {
+    "objectID": "reflection.html#how-i-might-use-genai-in-future",
+    "href": "reflection.html#how-i-might-use-genai-in-future",
+    "title": "Reflection on the use of GenAI",
+    "section": "How I might use GenAI in future",
+    "text": "How I might use GenAI in future\nFor writing first drafts, cleaning documentation, brainstorming, and debugging. I believe GenAI will be useful in both my studies and future work, especially in areas such as documentation, data analysis explanations, and technical problem solving."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Internship Project",
+    "section": "",
+    "text": "During my internship at Singapore Post, I worked on automation and data dashboard projects to support operations and improve efficiency.\n\n\nThe main goal of my project was to help track operational performance and reduce manual reporting work through dashboards and automation.\n\n\n\n\nBuilt dashboards to visualize locker and kiosk performance\nAutomated reporting workflows using Power Automate and Excel\nCleaned and organized operational data for analysis\nWorked with team members to understand real business requirements\n\n\n\n\n\nExcel and Power BI for data visualization\n\nPower Automate for workflow automation\n\nData cleaning and basic analysis\n\nCommunication with stakeholders"
+  },
+  {
+    "objectID": "project.html#my-internship-project-at-singpost",
+    "href": "project.html#my-internship-project-at-singpost",
+    "title": "Internship Project",
+    "section": "",
+    "text": "During my internship at Singapore Post, I worked on automation and data dashboard projects to support operations and improve efficiency.\n\n\nThe main goal of my project was to help track operational performance and reduce manual reporting work through dashboards and automation.\n\n\n\n\nBuilt dashboards to visualize locker and kiosk performance\nAutomated reporting workflows using Power Automate and Excel\nCleaned and organized operational data for analysis\nWorked with team members to understand real business requirements\n\n\n\n\n\nExcel and Power BI for data visualization\n\nPower Automate for workflow automation\n\nData cleaning and basic analysis\n\nCommunication with stakeholders"
+  },
+  {
+    "objectID": "docs/data-viz.html",
+    "href": "docs/data-viz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Data visualization allows complex numerical data to be presented in a clear and meaningful way. Through charts and graphs, patterns and trends become easier to understand compared to raw tables of numbers."
+  },
+  {
+    "objectID": "docs/data-viz.html#learning-with-technology",
+    "href": "docs/data-viz.html#learning-with-technology",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Data visualization allows complex numerical data to be presented in a clear and meaningful way. Through charts and graphs, patterns and trends become easier to understand compared to raw tables of numbers."
+  },
+  {
+    "objectID": "docs/data-viz.html#short-video-on-data-visualization",
+    "href": "docs/data-viz.html#short-video-on-data-visualization",
+    "title": "Data Visualization",
+    "section": "Short Video on Data Visualization",
+    "text": "Short Video on Data Visualization\n\nThis video explains how data visualization helps in decision-making and communication. It shows how visuals can turn data into useful insights."
+  },
+  {
+    "objectID": "docs/data-viz.html#about-singapore-institute-of-technology",
+    "href": "docs/data-viz.html#about-singapore-institute-of-technology",
+    "title": "Data Visualization",
+    "section": "About Singapore Institute of Technology",
+    "text": "About Singapore Institute of Technology\n\n\n\nThe Singapore Institute of Technology (SIT) focuses on applied learning and industry collaboration. Students are exposed to real-world projects and practical skills that prepare them for professional careers. This learning approach helps students bridge academic knowledge with workplace applications."
+  },
+  {
+    "objectID": "Data-viz.html",
+    "href": "Data-viz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Data visualization allows complex numerical data to be presented in a clear and meaningful way. Through charts and graphs, patterns and trends become easier to understand compared to raw tables of numbers."
+  },
+  {
+    "objectID": "Data-viz.html#learning-with-technology",
+    "href": "Data-viz.html#learning-with-technology",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Data visualization allows complex numerical data to be presented in a clear and meaningful way. Through charts and graphs, patterns and trends become easier to understand compared to raw tables of numbers."
+  },
+  {
+    "objectID": "Data-viz.html#short-video-on-data-visualization",
+    "href": "Data-viz.html#short-video-on-data-visualization",
+    "title": "Data Visualization",
+    "section": "Short Video on Data Visualization",
+    "text": "Short Video on Data Visualization\n\nThis video explains how data visualization helps in decision-making and communication. It shows how visuals can turn data into useful insights."
+  },
+  {
+    "objectID": "Data-viz.html#about-singapore-institute-of-technology",
+    "href": "Data-viz.html#about-singapore-institute-of-technology",
+    "title": "Data Visualization",
+    "section": "About Singapore Institute of Technology",
+    "text": "About Singapore Institute of Technology\n\n\n\nThe Singapore Institute of Technology (SIT) focuses on applied learning and industry collaboration. Students are exposed to real-world projects and practical skills that prepare them for professional careers. This learning approach helps students bridge academic knowledge with workplace applications."
+  },
+  {
+    "objectID": "reflection.html#genai-i-used",
+    "href": "reflection.html#genai-i-used",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I used ChatGPT to help me polish writing, fix formatting in Quarto, and troubleshoot GitHub Pages deployment."
+  },
+  {
+    "objectID": "index.html#hi-im-au-aumyat",
+    "href": "index.html#hi-im-au-aumyat",
+    "title": "Home",
+    "section": "",
+    "text": "I’m a FinTech undergraduate at SIT. I like working with data, building dashboards, and exploring how technology affects people and work.\n\n\n\nData analytics & visualization\nAutomation and process improvement\nFinTech systems and product thinking\n\n\n“I enjoy learning from mistakes, trying again, and slowly getting better at what I do.”"
+  },
+  {
+    "objectID": "reflection.html#how-it-helped",
+    "href": "reflection.html#how-it-helped",
+    "title": "Reflection on the use of GenAI",
+    "section": "How it helped",
+    "text": "How it helped\n\nHelping me mostly in organising and improving my content into a clean web page structure (headings, lists, links)\nFixing YAML indentation issues and navbar setup\nAssisting me when my images were not showing properly"
+  },
+  {
+    "objectID": "reflection.html#final-thoughts",
+    "href": "reflection.html#final-thoughts",
+    "title": "Reflection on the use of GenAI",
+    "section": "Final thoughts",
+    "text": "Final thoughts\nOverall, GenAI supported my learning process instead of replacing it. It helped me work more efficiently, understand technical concepts better, and reflect more deeply on my own work."
   }
 ]

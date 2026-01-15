@@ -3,20 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "personal website"
+  favicon: favicon.png
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: project.qmd
+        text: Project
+      - href: Data-viz.qmd
+        text: Data Visualization
+      - href: reflection.qmd
+        text: Reflection
 
 format:
   html:
     theme:
-      - cosmo
+      - journal
       - brand
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 

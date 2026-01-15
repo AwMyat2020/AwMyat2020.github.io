@@ -1,11 +1,20 @@
 ---
-title: "temp_website"
+title: "Home"
 ---
 
-This is a Quarto website.
+## Hi, I’m Au (AuMyat)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I’m a FinTech undergraduate at SIT. I like working with data, building dashboards, and exploring how technology affects people and work.
 
-```{r}
-1 + 1
-```
+### What I’m into
+- Data analytics & visualization
+- Automation and process improvement
+- FinTech systems and product thinking
+
+> “I enjoy learning from mistakes, trying again, and slowly getting better at what I do.”
+
+::: {style="float:left; position: relative; top: 0px"}
+
+![](images/lab_sit_logo.png){height="100px" style="margin-right: 10px; align: left"}
+
+:::

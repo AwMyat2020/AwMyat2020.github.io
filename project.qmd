@@ -1,0 +1,24 @@
+---
+title: "Internship Project"
+format: html
+---
+
+## My Internship Project at SingPost
+
+During my internship at Singapore Post, I worked on automation and data dashboard projects to support operations and improve efficiency.
+
+### Project Overview
+The main goal of my project was to help track operational performance and reduce manual reporting work through dashboards and automation.
+
+### What I did
+- Built dashboards to visualize locker and kiosk performance
+- Automated reporting workflows using Power Automate and Excel
+- Cleaned and organized operational data for analysis
+- Worked with team members to understand real business requirements
+
+### Tools and Skills Used
+- Excel and Power BI for data visualization  
+- Power Automate for workflow automation  
+- Data cleaning and basic analysis  
+- Communication with stakeholders  
+
